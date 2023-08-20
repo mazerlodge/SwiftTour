@@ -9,5 +9,12 @@ How to set up code template headers
 Swift Language Tour (source/inspiration for the code examples in this project)
 	https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/
 	
+History
+08/20/2023
+	- Add some examples from the referenced Tour page
+	
+Next:
+	- Resume at https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/#Control-Flow
+	
 
 
