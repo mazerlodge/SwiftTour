@@ -1,0 +1,13 @@
+
+Note: This project includes a custom FILEHEADER found in:
+~/Documents/XProjects/Swift/SwiftTour/SwiftTour.xcodeproj/xcuserdata/mazerlodge.xcuserdatad/IDETemplateMacros.plist
+
+References:
+How to set up code template headers
+	https://useyourloaf.com/blog/changing-xcode-header-comment/
+
+Swift Language Tour (source/inspiration for the code examples in this project)
+	https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/
+	
+
+

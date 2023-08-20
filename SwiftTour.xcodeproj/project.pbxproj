@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		70FE7F9A2A9264FE00F0CBF6 /* SwiftTour */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftTour; sourceTree = BUILT_PRODUCTS_DIR; };
 		70FE7F9D2A9264FE00F0CBF6 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		70FE7FA92A92700200F0CBF6 /* POA SwiftTour.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "POA SwiftTour.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		70FE7F912A9264FE00F0CBF6 = {
 			isa = PBXGroup;
 			children = (
+				70FE7FA82A926FD000F0CBF6 /* Doco */,
 				70FE7F9C2A9264FE00F0CBF6 /* SwiftTour */,
 				70FE7F9B2A9264FE00F0CBF6 /* Products */,
 			);
@@ -60,6 +62,14 @@
 				70FE7F9D2A9264FE00F0CBF6 /* main.swift */,
 			);
 			path = SwiftTour;
+			sourceTree = "<group>";
+		};
+		70FE7FA82A926FD000F0CBF6 /* Doco */ = {
+			isa = PBXGroup;
+			children = (
+				70FE7FA92A92700200F0CBF6 /* POA SwiftTour.txt */,
+			);
+			path = Doco;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
