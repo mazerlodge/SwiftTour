@@ -16,5 +16,14 @@ History
 Next:
 	- Resume at https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/#Control-Flow
 	
-
+Upcoming areas:
+	- Control Flow
+	- Functions and Closures
+	- Objects and Classes
+	- Enumerations and Structures
+	- Concurrency
+	- Protocols and Extensions
+	- Error Handling
+	- Generics
+	
 
